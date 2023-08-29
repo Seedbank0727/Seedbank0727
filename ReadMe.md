@@ -2,10 +2,10 @@
 
 <div align=center>
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=O-Ojinnie&count_private=true&show_icons=true&theme=tokyonight)]
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Seedbank0727&count_private=true&show_icons=true&theme=tokyonight)]
 
  ## Most Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Ojinnie&count_private=true&layout=compact&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seedbank0727&count_private=true&layout=compact&theme=tokyonight&count_private=true)
  
  ## TECH STACK
  
@@ -28,6 +28,5 @@
 <a href="https://github.com/Seedbank0727" target="_blank">
  <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
  </a>
-
  
 </div>
