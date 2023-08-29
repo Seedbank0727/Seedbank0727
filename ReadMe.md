@@ -25,17 +25,9 @@
 
 ## 💬 Ask me about
 
-<a href="https://github.com/O-Ojinnie" target="_blank">
+<a href="https://github.com/Seedbank0727" target="_blank">
  <img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
  </a>
- 
 
-<a href="https://www.notion.so/Jinnie-s-Home-6e510fc375cf49cbb0ca0901de963e72" target="_blank">
- <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
- </a>
- 
- <a href="mailto:dongjin.dev@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
- </a>
  
 </div>
